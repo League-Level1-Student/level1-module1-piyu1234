@@ -1,6 +1,7 @@
 
 
 public class RaceCar {
+
 	private String brand;
 	private int positionInRace;
 	public boolean damaged = false;
