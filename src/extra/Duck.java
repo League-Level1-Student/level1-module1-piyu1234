@@ -5,7 +5,7 @@ public class Duck {
 	String favoriteFood;
 	
 	void quack()  {
-		
+	System.out.println("quack");	
 		
 	}
 	
